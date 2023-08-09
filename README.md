@@ -35,7 +35,9 @@ Feel free to contribute by adding new Python files or improving existing ones. F
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is open-source and is released under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](LICENSE) file.
+
+The GPL is a copyleft license that ensures that derivative works of this software must also be open-source and licensed under the GPL.
 
 ## Contact
 
